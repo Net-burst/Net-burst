@@ -1,7 +1,7 @@
-## Hi 👋, I am Oleksandr Zhevedenko and I'm doing backed development and SDET stuff using Java, Groovy, Kotlin and Python.
+## Hi 👋, I am Oleksandr Zhevedenko and I'm doing backed development and SDET stuff.
 
 - I'm passionate about technology and aerospace.
-- I really enjoy Java, Kotlin and Groovy.
+- I really enjoy Java, Kotlin, Groovy and Python.
 - You can usually see me developing stuff using Spring Boot or advocating for TDD/BDD development.
 
 ### 🧰 Languages and tools that I use:
